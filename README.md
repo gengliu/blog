@@ -1,3 +1,5 @@
 # blog
-[css snippet](./css-snippet/css-snippet.css)
+[css snippet](./code-snippet/css-snippet.md)
+
+
 
